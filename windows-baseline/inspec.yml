@@ -1,0 +1,12 @@
+# encoding: utf-8
+
+name: windows-baseline
+title: Windows Baseline
+maintainer: Infor CloudOps
+copyright: Infor CloudOps
+copyright_email: cloudops@infor.com
+license: Apache 2 license
+summary: Baseline for best-practice Windows OS
+version: 1.0.0
+supports:
+  - os-family: windows
